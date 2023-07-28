@@ -7,7 +7,9 @@ git clone https://github.com/Issa-barry/my-archi22.git
 cd my-archi22
 ```
 #### demarer le serveur
-```ng serve
+```
+ng serve
+
 ```
 #### Créer un component
 ```
