@@ -7,14 +7,6 @@ git clone https://github.com/Issa-barry/my-archi22.git
 cd my-archi22
 ```
 
-* `ng serve` -  Run serveur".
-* `ng g c dossier/nom_component` - Créer un component.
-* `ng g c dossier/nom_component -m=nom_module` - Créer un component en precisant le module rattacher `.
-* `ng lint` - runs `tslint` on the project files.
- 
-
-
-
 
 #### demarer le serveur
 ```
