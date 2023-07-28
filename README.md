@@ -2,10 +2,7 @@
 
 ### Clone   repo
 
-```shell
-git clone https://github.com/Issa-barry/my-archi22.git
-cd my-archi22
-```
+ 
 
 
 #### demarer le serveur
