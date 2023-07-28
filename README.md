@@ -1,4 +1,4 @@
-# Pour tester sur notre projet de fin d'etude
+<!-- # Pour tester sur notre projet de fin d'etude
 
 ### Clone   repo
 
@@ -68,4 +68,4 @@ ng g cl dossier/nom_classe
 ```
 ng g p dossier/nom_pipe 
 
-```
+``` -->
