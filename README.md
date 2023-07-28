@@ -4,7 +4,9 @@ demarer le serveur
 ```ng serve
 ```
 ### Créer un component
-ng g c dossier/nom_component 
+```
+ng g c dossier/nom_component
+``` 
 
 ### Créer un component en precisant le module rattacher
 ```
